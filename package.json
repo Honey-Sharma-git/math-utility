@@ -1,0 +1,12 @@
+{
+  "name": "math-utility",
+  "version": "1.0.0",
+  "description": "Math utility in javascript",
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "math.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
